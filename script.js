@@ -1,12 +1,5 @@
 {
-
     const tasks = [
-        {
-            content: "nagrac lekcje"
-        },
-        {
-            content: " zjeść obiad"
-        },
     ];
 
     const addNewTask = (newTaskContent) => {
@@ -61,7 +54,7 @@
 
         document.querySelector(".js-tasks").innerHTML = htmlString;
 
-       bindEvents();
+        bindEvents();
     };
 
 
