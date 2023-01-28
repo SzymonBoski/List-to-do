@@ -1,5 +1,31 @@
 .form {
-    border: 1px solid rgb(235, 235, 235); 
-    padding: 20px;
-    background-color: white;
-};
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr auto;
+}
+
+.form__input {
+    border: 1px solid rgb(241, 241, 241);
+    padding: 10px;
+}
+
+@media (max-width: 767px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+}
+
+.form__addButton {
+    color: white;
+    background-color: teal;
+    border: none;
+    padding: 10px;
+}
+
+.form__addButton:hover {
+    background-color: hsl(180, 95%, 15%);
+}
+
+.form__addButton:active {
+    background-color: rgb(1, 45, 45);
+}
