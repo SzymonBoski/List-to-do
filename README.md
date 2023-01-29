@@ -11,7 +11,7 @@ My website is a list to-do list. You can write there what you have to do and whe
 
 ## How Used
 
-![How Used](https://github.com/SzymonBoski/List-to-do/commit/91499c606ca399d72716472d369b53e9ccf83cd7)
+![How Used](https://github.com/SzymonBoski/List-to-do/blob/main/howUsed.gif)
 
 ## Used Technologies
 - HTML 
