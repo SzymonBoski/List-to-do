@@ -1,5 +1,5 @@
 # List-to-do
-![To Do List](https://github.com/SzymonBoski/List-to-do/commit/cb895e259ce3910212a00d76cc91f0f1b48a3538#diff-c825be7522c04826cbb2f792abc9d921de6bbcb3cb2ffcd61fa97e85eefd07f8)
+![To Do List](https://github.com/SzymonBoski/List-to-do/blob/main/images/picture.jpg)
 
 ## Demo 
 
