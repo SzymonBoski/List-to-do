@@ -5,7 +5,7 @@
 }
 
 .form__input {
-    border: 1px solid rgb(241, 241, 241);
+    border: 1px solid hsl(0, 0%, 95%);
     padding: 10px;
 }
 
@@ -24,8 +24,9 @@
 
 .form__addButton:hover {
     background-color: hsl(180, 95%, 15%);
+    transform: scale(1.1);
 }
 
 .form__addButton:active {
-    background-color: rgb(1, 45, 45);
+    background-color: hsl(180, 96%, 9%);
 }
