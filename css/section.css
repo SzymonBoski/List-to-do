@@ -14,3 +14,13 @@
 .section__body {
     padding: 20px;
 }
+
+.section__button--hide {
+    border: none;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.section__button--complete {
+    border: none;
+    background-color: hsl(0, 0%, 100%);
+}
