@@ -14,23 +14,13 @@
     border-bottom: 1px solid hsl(0, 0%, 95%);
 }
 
+@media(max-width: 757px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}
+
 .section__body {
     padding: 20px;
 }
 
-.section__button {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.section__button--hide {
-    margin: 0 0 0 20px;
-    border: none;
-    background-color: hsl(0, 0%, 100%);
-}
-
-.section__button--complete {
-    margin: 0 0 0 20px;
-    border: none;
-    background-color: hsl(0, 0%, 100%);
-}

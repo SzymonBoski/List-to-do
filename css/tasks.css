@@ -25,6 +25,10 @@
     transition: 1s;
 }
 
+.tasks__item--hidden {
+    display: none;
+}
+
 .tasks__button--done {
     background-color: hsl(103, 80%, 40%);
 }
