@@ -7,7 +7,7 @@ https://szymonboski.github.io/List-to-do/
 
 ## Description 
 
-My website is a list to-do list. You can write there what you have to do and when you are done, delete this task or mark it is done. This website will come in helpful for making to do lists but also for making shopping lists or people lists for party or birthday.
+My website is a list to-do list. You can write there what you have to do and when you are done, delete this task or mark it is done. This website will come in helpful for making to do lists but also for making shopping lists or people lists for party or birthday. There are also two buttons one for complete all things on your list and second to hide and show already done items from the list.
 
 ## How Used
 
